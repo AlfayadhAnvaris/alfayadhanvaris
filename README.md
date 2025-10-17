@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfayadh Anvaris</h1>
-<img src="fullstack.gif" alt="Alfayadh Anvaris" width="200" height="200" />
+<img src="fullstack.gif" alt="Alfayadh Anvaris" width="200" height="full"/>
 <h3 align="center">I'm a **Junior Programmer** passionate about building modern web and mobile applications. I love exploring clean code architecture and creating digital products that make life easier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfayadhanvaris&label=Profile%20views&color=0e75b6&style=flat" alt="alfayadhanvaris" /> </p>
@@ -41,5 +41,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfayadhanvaris&show_icons=true&locale=en" alt="alfayadhanvaris" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfayadhanvaris&" alt="alfayadhanvaris" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfayadhanvaris&" alt="alfayadhanvaris" /></p> -->
 
