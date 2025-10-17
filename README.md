@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfayadh Anvaris</h1>
-<img src="fullstack.gif" alt="Alfayadh Anvaris" width="800"/>
+<img src="fullstack.gif" alt="Alfayadh Anvaris" width="900"/>
 <h3 align="justify">I'm a **Junior Programmer** passionate about building modern web and mobile applications. I love exploring clean code architecture and creating digital products that make life easier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfayadhanvaris&label=Profile%20views&color=0e75b6&style=flat" alt="alfayadhanvaris" /> </p>
